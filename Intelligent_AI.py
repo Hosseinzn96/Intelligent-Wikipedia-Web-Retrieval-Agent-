@@ -318,9 +318,9 @@ for q in questions:
 
     # Print GAIA question, answer, and source
     print("\n" + "="*80)
-    print(f"📝 GAIA Question [{task_id}]: {question_text}")
-    print("✅ Final Answer:", final_message_content)
-    print("📌 Source:", source)
+    print(f"GAIA Question [{task_id}]: {question_text}")
+    print("Final Answer:", final_message_content)
+    print("Source:", source)
 
     # Save for submission
     answers.append({

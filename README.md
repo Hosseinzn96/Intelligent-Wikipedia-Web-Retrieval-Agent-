@@ -80,6 +80,7 @@ User Question
       │
       ▼
      END
+```
 
 **LangGraph explicitly controls every transition** between retrieval, reasoning, and tool execution.
 

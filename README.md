@@ -53,7 +53,8 @@ Context-aware generation using **open-source LLMs**.
 ### 🔄 **Graph-Based Agent Flow**
 
 
-       User Question
+```text
+User Question
       │
       ▼
 ┌──────────────────────┐
@@ -79,9 +80,6 @@ Context-aware generation using **open-source LLMs**.
       │
       ▼
      END
-
-
-
 
 **LangGraph explicitly controls every transition** between retrieval, reasoning, and tool execution.
 
